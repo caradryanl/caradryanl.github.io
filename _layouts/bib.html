@@ -18,14 +18,39 @@
           {%- if site.data.venues[entry.abbr] -%}
             {%- assign venue_style = nil -%}
             {%- if site.data.venues[entry.abbr].color != blank -%}
-              {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
+              {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '; width: 150px;"' -%}
             {%- endif -%}
             <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
           {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+            <abbr class="badge" style="width: 100px;">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        {%- if entry.preview -%}
+            {% if entry.preview contains '://' -%}
+            <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
+            {%- else -%}
+              {%- assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' -%}
+              {% include figure.html
+              path=entry_path
+              class="preview z-depth-1 rounded"
+              zoomable=true
+              alt=entry.preview -%}
+            {%- endif -%}
+          {%- elsif entry.tag -%}
+            {%- if site.data.venues[entry.tag] -%}
+              {%- assign venue_style = nil -%}
+              {%- if site.data.venues[entry.tag].color != blank -%}
+                  {%- assign tag_style = site.data.venues[entry.tag].color | prepend: 'style="background-color:' | append: '; color: #673AB7"' -%} <!-- Added color: #673AB7 for deep purple -->
+              {%- else -%}
+                  {%- assign tag_style = venue_style | append: '; color: #673AB7"' -%} <!-- This line ensures that the tag gets the same background style as abbr if its own color is blank, and adds the deep purple text color -->
+              {%- endif -%}
+              <abbr class="badge">{{entry.tag}}</abbr>
+            {%- else -%}
+            <abbr class="badge" style="width: 100px;">{{entry.tag}}</abbr>
+            {%- endif -%}
+          {%- endif -%}
         </div>
+
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
