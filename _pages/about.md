@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Southern California, Ph.D. Student in Computer Science
+subtitle: Ph.D. Student in Computer Science, <a href='https://www.usc.edu/'>University of Southern California</a>. 
 
 profile:
   align: left
