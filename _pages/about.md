@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I am currently a first-year Ph.D. student in Computer Science at University of Southern California. I am fortunately to be mentored by Prof. <a href='https://viterbi-web.usc.edu/~liu32/'>Yan Liu</a>.
+I am currently a first-year Ph.D. student in Computer Science at University of Southern California. I am fortunate to be mentored by Prof. <a href='https://viterbi-web.usc.edu/~liu32/'>Yan Liu</a>.
 
 My goal is to help the state-of-the-art generative models gentle into the human society without bringing in sudden negative impacts. Currently, I focus on the security, privacy, and trustworth of diffusion models. I am also interesting in making foundation models and AI applications more efficient and accessible to the public.
 
