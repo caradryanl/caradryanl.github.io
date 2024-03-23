@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our project on adding adversarial watermarks against unauthorized artwork copying with Stable Diffusion, <a href='https://mist-project.github.io/index_en.html'>Mist</a>, is now open-sourced on <a href='https://github.com/mist-project/mist'>GitHub</a>. Try to protect your artworks by adding tiny watermarks on them!
+Our project on adding adversarial watermarks against unauthorized artwork copying with Stable Diffusion, Mist, is now open-sourced on <a href='https://github.com/psyker-team/mist'>GitHub</a>. Try to protect your artworks by adding tiny watermarks on them!
