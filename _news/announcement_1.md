@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-<a href='https://github.com/mist-project/mist-v2'>Mist-v2</a> has released! Compared to Mist, Mist-v2 enjoys far more powerful protection performance against LoRA. We update its detailed features in the <a href='https://mist-project.github.io/index_en.html'>Homepage</a>. We are also going to announce it in X. Looking forward to it!
+<a href='https://github.com/psyker-team/mist-v2'>Mist-v2</a> has released! Compared to Mist, Mist-v2 enjoys far more powerful protection performance against LoRA. We update its detailed features in the <a href='https://psyker-team.github.io/index_en.html'>Homepage</a>. We are also going to announce it in X. Looking forward to it!
