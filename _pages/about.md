@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I am a graduate student in Computer Science at University of Southern California, interested in generative models and AI compliance. I study the negative societal impact of generative AI and present (temporary) solutions. Also, I work on building powerful representation for generative modeling of relational data (e.g. molecules).
+I study interpreting modern generative models, with applications in 1) addressing robustness, alignment, and ethical problems in generative models, and 2) scaling generative models to handle more complex data, such as protein structures. In the real world, I am concern about the societal impacts of Generative AI and deeply invested in helping disadvantaged groups, such as human artists, in the era of Generative AI.
 
 I co-found and lead a [volunteering interest group](https://psyker-team.github.io/index_en.html) that works on copyright issues of generative models for images. We develop softwares and provide technical services for AI copyright lawsuits as volunteers. [E-mail us](mailto:mist202304@gmail.com) if you are interested or in need of help!
 
