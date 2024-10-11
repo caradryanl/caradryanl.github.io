@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://CaradryanLiang.github.io/sitemap.xml
+Sitemap: https://caradryanl.github.io/sitemap.xml
