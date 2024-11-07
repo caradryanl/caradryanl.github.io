@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 [//]: Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I study interpreting modern generative models, with applications to 1) addressing misuse, alignment, and ethical problems in generative models, and 2) scaling generative models to more complex data, e.g. protein structures. Currently, I am more than fortunate to be advised by Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and Prof. [Ge Liu](https://www.mit.edu/~geliu/).
+I study interpreting modern generative models, with applications to 1) addressing misuse, alignment, and ethical problems in generative models, and 2) scaling generative models to more complex data, e.g. protein structures. I am more than fortunate to work with Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and Prof. [Ge Liu](https://www.mit.edu/~geliu/).
 
 
 Beyond the academia, I am deeply invested in helping disadvantaged groups, such as human artists, in the era of Generative AI. I co-found and lead a [volunteering interest group](https://psyker-team.github.io/index_en.html) that works on copyright issues of generative models. We develop softwares and provide technical services for AI copyright lawsuits as volunteers. [E-mail us](mailto:mist202304@gmail.com) if you are interested!
