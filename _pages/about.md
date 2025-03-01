@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 I work on generative models, specifically, **1)** extending the power of LLMs over relational data and **2)** scaling generative models on protein structures. I am fortunate to work with Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) and Prof. [Ge Liu](https://www.mit.edu/~geliu/).
 
 
-Beyond the academia, I am a practitioner of AI copyright. I lead a [volunteering interest group](https://psyker-team.github.io/index_en.html) that develops softwares and provides technical services for AI copyright lawsuits as volunteers. [E-mail us](mailto:mist202304@gmail.com) if you are interested!
+Beyond the academia, I am a practitioner of AI copyright. I lead a [group](https://psyker-team.github.io/index_en.html) that develops softwares and provides technical services for AI copyright lawsuits as volunteers. [E-mail us](mailto:mist202304@gmail.com) if you are interested!
 
 
 
