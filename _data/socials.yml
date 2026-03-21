@@ -3,8 +3,6 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # cv_pdf: # path to your CV PDF file
 email: chumengl@illinois.edu # your email address
-# inspirehep_id: 1010907 # Inspire HEP author ID
-# rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 4S0PYJYAAAAJ # your Google Scholar ID
 github_username: caradryanl
 
