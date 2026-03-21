@@ -26,3 +26,5 @@ latest_posts:
 ---
 
 I work on generative models and representation learning, with my current focus on diffusion language models. I am more than fortunate to be advised by Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). I also work closely with Prof. [Ge Liu](https://www.mit.edu/~geliu/).
+
+Previously, I obtained my M.S. from the University of Southern California and B.S. from Shanghai Jiao Tong University, where I worked on relieving copyright concerns of generative models.
