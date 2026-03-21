@@ -5,7 +5,7 @@ permalink: /
 subtitle: PhD student in Computer Science, <a href='https://illinois.edu/'>University of Illinois, Urbana-Champaign</a>.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
