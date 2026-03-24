@@ -27,7 +27,7 @@ ninja.data = [{
         
           title: "Continuous Matches Discrete in Diffusion Language Modeling",
         
-        description: "Continuous diffusion matches discrete diffusion in the performance on language modeling benchmarks under the setup of GPT-2 for the first time.",
+        description: "Continuous diffusion matches discrete diffusion in standard language modeling for the first time.",
         section: "Posts",
         handler: () => {
           
