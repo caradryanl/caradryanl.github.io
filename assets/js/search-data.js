@@ -23,23 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-continuous-diffusion-rivals-discrete-in-diffusion-language-modeling",
+        },{id: "post-continuous-diffusion-rivals-discrete-in-language-modeling",
         
-          title: "Continuous Diffusion Rivals Discrete in Diffusion Language Modeling",
+          title: "Continuous Diffusion Rivals Discrete in Language Modeling",
         
-        description: "Continuous diffusion rivals discrete counterparts on standard language modeling benchmarks for the first time.",
+        description: "For the first time, continuous diffusion rivals discrete counterparts on standard language modeling benchmarks.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/langflow/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
