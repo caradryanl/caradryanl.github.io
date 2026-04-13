@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-continuous-matches-discrete-in-diffusion-language-modeling",
+        },{id: "post-continuous-diffusion-rivals-discrete-in-diffusion-language-modeling",
         
-          title: "Continuous Matches Discrete in Diffusion Language Modeling",
+          title: "Continuous Diffusion Rivals Discrete in Diffusion Language Modeling",
         
-        description: "Continuous diffusion matches discrete diffusion in standard language modeling for the first time.",
+        description: "Continuous diffusion rivals discrete counterparts on standard language modeling benchmarks for the first time.",
         section: "Posts",
         handler: () => {
           
