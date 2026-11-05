@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I work on generative models and representation learning, with my current focus on diffusion language models. I am more than fortunate to be advised by Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). I also work closely with Prof. [Ge Liu](https://www.mit.edu/~geliu/).
+I am a second-year CS PhD student at [University of Illinois Urbana-Champaign](https://illinois.edu/). I am more than fortunate to be advised by Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/). I also work closely with Prof. [Ge Liu](https://www.mit.edu/~geliu/).
 
-Previously, I obtained my M.S. from the University of Southern California and B.S. from Shanghai Jiao Tong University, where I worked on relieving copyright concerns of generative models.
+I build things that appeal to me, including language models with non-mainstream architecture and multi-agent systems currently. I used to work on methods countering the abuse of AI.

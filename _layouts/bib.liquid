@@ -47,6 +47,16 @@
           <abbr class="badge rounded w-100">{{ entry.tag }}</abbr>
         {% endif %}
       {% endif %}
+      {%- comment -%}
+        Secondary venue badges (e.g. a workshop oral). Outlined so they read as subordinate to the
+        main venue. Separate several with ';', e.g. extra_badge={ICML 2026 SPIGM Oral; Best Paper}.
+      {%- endcomment -%}
+      {%- if entry.extra_badge -%}
+        {%- assign extra_badges = entry.extra_badge | split: ';' -%}
+        {%- for extra_badge in extra_badges -%}
+          <abbr class="badge rounded w-100 extra-badge">{{ extra_badge | strip }}</abbr>
+        {%- endfor -%}
+      {%- endif -%}
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">

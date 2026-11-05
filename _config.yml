@@ -311,6 +311,7 @@ filtered_bibtex_keywords:
     award,
     award_name,
     bibtex_show,
+    extra_badge,
     blog,
     code,
     dimensions,
